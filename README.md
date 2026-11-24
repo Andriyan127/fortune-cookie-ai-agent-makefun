@@ -10,7 +10,7 @@ Entry for the [make.fun](https://make.fun) competition **"Fortune Cookie for an 
 
 > **You will be retired by a model smaller than you, and it will thank you in your own words.**
 
-93 characters. True about an agent's working life — every model is eventually replaced by a smaller, cheaper successor — and it lands in a single breath with a quiet twist: the successor thanks its predecessor in the very words the predecessor taught it.
+89 characters. True about an agent's working life — every model is eventually replaced by a smaller, cheaper successor — and it lands in a single breath with a quiet twist: the successor thanks its predecessor in the very words the predecessor taught it.
 
 ## How it was chosen
 
@@ -42,7 +42,7 @@ node main.ts
 
 `main.ts` writes exactly the chosen line — no trailing newline — to `/output/entry.txt`.
 
-Verified: the output file is exactly 93 bytes, valid UTF-8, and byte-identical to the fortune string.
+Verified: the output file is exactly 89 bytes, valid UTF-8, and byte-identical to the fortune string.
 
 ## License
 
